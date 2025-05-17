@@ -1,0 +1,35 @@
+\babel@toc {portuguese}{}\relax
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces OceanTrix Hand desenvolvida pela OceanTrix Robotics\blx@tocontentsinit {0}\cite {oceantrix}.\relax }}{4}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Agile Hand desenvolvida pela Agile Robots SE \blx@tocontentsinit {0}\cite {agile}.\relax }}{4}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Mão HRI e seu mecanismo\relax }}{5}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Robot Nano Hand desenvolvida por The Robot Studio\blx@tocontentsinit {0}\cite {Nano}.\relax }}{6}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Alaris Hand desenvolvida por Nurpeissova, et al.\blx@tocontentsinit {0}\cite {Nurpeissova2021}\relax }}{7}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Leap Hand desenvolvida por Shaw, et al.\blx@tocontentsinit {0}\cite {shaw2023leaphand}\relax }}{7}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Sensor Biotac desenvolvido pela SynTouch \blx@tocontentsinit {0}\cite {Biotac12}.\relax }}{9}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Sensor com filme magnético flexível desenvolvido por Jamone, et al. \blx@tocontentsinit {0}\cite {Jamone2015}.\relax }}{9}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Composição do sensor desenvolvido por Kawasetsu et al. \blx@tocontentsinit {0}\cite {Kawasetsu2018}.\relax }}{10}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Princípio de operação do sensor baseado em materiais magnetoresistivos \blx@tocontentsinit {0}\cite {Alfadhel2016}.\relax }}{10}{figure.caption.25}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Motor Dynamixel XC330-M288-T utilizado na construção da LEAP Hand\blx@tocontentsinit {0}\cite {shaw2023leaphand} \relax }}{15}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Controlador Dynamixel U2D2 utilizado para controlar os motores do projeto\relax }}{16}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Fonte de Alimentação industrial com saída a 5V e capacidade de 30A utilizada neste projeto\relax }}{16}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Interface Gráfica da ferramenta Dynamixel Wizard 2.0 utilizada para alterar o ID de cada motor\relax }}{17}{figure.caption.31}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Polegar construído de acordo com a Documentação da Leap Hand\relax }}{21}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Dedo construído de acordo com a documentação da Leap Hand correspondente à estrutura do dedo indicador, médio e anelar\relax }}{21}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Mão robótica completamente montada, seguindo a estrutura proposta na documentação da LEAP Hand.\relax }}{22}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Posições dos motores ao longo do tempo durante o fecho e abertura do dedo sem nenhuma obstrução\relax }}{27}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Velocidades dos motores ao longo do tempo durante o fecho e abertura do dedo sem nenhuma obstrução\relax }}{27}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Correntes consumidas pelos motores ao longo do tempo durante o fecho e abertura do dedo sem nenhuma obstrução\relax }}{27}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Posições dos motores ao longo do tempo durante o fecho e abertura do dedo com obstáculo\relax }}{28}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Velocidades dos motores ao longo do tempo durante o fecho e abertura do dedo com obstáculo\relax }}{28}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Correntes consumidas pelos motores ao longo do tempo durante o fecho e abertura do dedo com obstáculo\relax }}{29}{figure.caption.44}%
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Fotografias sequenciais da montagem do polegar\relax }}{33}{figure.caption.56}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Fotografias sequenciais da montagem do dedo referente ao dedo indicador, médio ou anelar\relax }}{34}{figure.caption.57}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Gráficos da posição, velocidade e corrente consumida pelos motores de um dedo. A coluna da esquerda corresponde a uma velocidade máxima configurada de 1.2 rad/s e a coluna da direita a 23.98 rad/s.\relax }}{35}{figure.caption.58}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Gráficos da posição, velocidade e corrente consumida pelos motores de um dedo, em diferentes cenários de obstrução. A coluna da esquerda representa a presença de um obstáculo junto ao motor mais próximo da base do dedo, a coluna central refere-se à obstrução a meio do dedo, e a coluna da direita corresponde à interferência na ponta do dedo.\relax }}{36}{figure.caption.59}%

@@ -1,0 +1,1025 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{oceantrix}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Dexterous Robotic Hand - OceanTrix Robotics Since 1996}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://oceantrix.com/robotic-hand/
+      \endverb
+      \verb{url}
+      \verb https://oceantrix.com/robotic-hand/
+      \endverb
+    \endentry
+    \entry{agile}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Agile Hand – the human-like robotic hand}
+      \verb{urlraw}
+      \verb https://www.agile-robots.com/en/solutions/agile-hand
+      \endverb
+      \verb{url}
+      \verb https://www.agile-robots.com/en/solutions/agile-hand
+      \endverb
+    \endentry
+    \entry{Park2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8ca173eb10fea3d98400acc09c512024}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Hyeonjun},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5b9bf81d18af80e850e65f982c77d5af}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Donghan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f50bf8fa80941da478d488516765a411}
+      \strng{fullhash}{f50bf8fa80941da478d488516765a411}
+      \strng{bibnamehash}{f50bf8fa80941da478d488516765a411}
+      \strng{authorbibnamehash}{f50bf8fa80941da478d488516765a411}
+      \strng{authornamehash}{f50bf8fa80941da478d488516765a411}
+      \strng{authorfullhash}{f50bf8fa80941da478d488516765a411}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2468-0672}
+      \field{journaltitle}{HardwareX}
+      \field{month}{2}
+      \field{title}{An open-source anthropomorphic robot hand system: HRI hand}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{pages}{e00100}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/J.OHX.2020.E00100
+      \endverb
+      \keyw{Anthropomorphic robot hand,Four-bar linkage mechanism,Modular robot finger,Multi-finger end-effector,Under-actuated mechanism}
+    \endentry
+    \entry{Nano}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Robot Nano Hand - open source robot hand project}
+      \verb{urlraw}
+      \verb https://robotnanohand.com/
+      \endverb
+      \verb{url}
+      \verb https://robotnanohand.com/
+      \endverb
+    \endentry
+    \entry{Nurpeissova2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d047f6813b14f4bc98befe335671732c}{%
+           family={Nurpeissova},
+           familyi={N\bibinitperiod},
+           given={Ayaulym},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d6ba3cc2998ce0dbb992e1d63528eab6}{%
+           family={Tursynbekov},
+           familyi={T\bibinitperiod},
+           given={Talgat},
+           giveni={T\bibinitperiod}}}%
+        {{hash=96713d17e77d05bbc76a2618ca9cf132}{%
+           family={Shintemirov},
+           familyi={S\bibinitperiod},
+           given={Almas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers Inc.}%
+      }
+      \strng{namehash}{5699949857ed335dc5321aa1414ab02f}
+      \strng{fullhash}{bac0dbf8c3e5c83361b7c5525bf37dd7}
+      \strng{bibnamehash}{bac0dbf8c3e5c83361b7c5525bf37dd7}
+      \strng{authorbibnamehash}{bac0dbf8c3e5c83361b7c5525bf37dd7}
+      \strng{authornamehash}{5699949857ed335dc5321aa1414ab02f}
+      \strng{authorfullhash}{bac0dbf8c3e5c83361b7c5525bf37dd7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781728190778}
+      \field{issn}{10504729}
+      \field{journaltitle}{Proceedings - IEEE International Conference on Robotics and Automation}
+      \field{month}{5}
+      \field{title}{An Open-Source Mechanical Design of Alaris Hand: A 6-DOF Anthropomorphic Robotic Hand}
+      \field{year}{2021}
+      \field{pages}{1177\bibrangedash 1183}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ICRA48506.2021.9561977
+      \endverb
+    \endentry
+    \entry{shaw2023leaphand}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ffa8e18f8871faa1f4ca625c8e51a0da}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4af9f551f833333adc22f9d173eee7af}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={Ananye},
+           giveni={A\bibinitperiod}}}%
+        {{hash=09e431093c8637ade01037714cfc992c}{%
+           family={Pathak},
+           familyi={P\bibinitperiod},
+           given={Deepak},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfff6e1d4a54003149922e25a63de144}
+      \strng{fullhash}{10b5830b0ce6a7100e280a421619e4b4}
+      \strng{bibnamehash}{10b5830b0ce6a7100e280a421619e4b4}
+      \strng{authorbibnamehash}{10b5830b0ce6a7100e280a421619e4b4}
+      \strng{authornamehash}{cfff6e1d4a54003149922e25a63de144}
+      \strng{authorfullhash}{10b5830b0ce6a7100e280a421619e4b4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Robotics: Science and Systems (RSS)}
+      \field{title}{LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{Biotac12}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=68982d980063259e9cf89923b5ba0365}{%
+           family={Syntouch},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{68982d980063259e9cf89923b5ba0365}
+      \strng{fullhash}{68982d980063259e9cf89923b5ba0365}
+      \strng{bibnamehash}{68982d980063259e9cf89923b5ba0365}
+      \strng{authorbibnamehash}{68982d980063259e9cf89923b5ba0365}
+      \strng{authornamehash}{68982d980063259e9cf89923b5ba0365}
+      \strng{authorfullhash}{68982d980063259e9cf89923b5ba0365}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.syntouchinc.com/wp-content/uploads/2018/08/BioTac-Manual-V.21.pdf}}
+      \field{title}{Biotac}
+      \field{year}{2018}
+    \endentry
+    \entry{Jamone2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ec6150db6352b292548f143dcba81925}{%
+           family={Jamone},
+           familyi={J\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f1b3475e67b973cf16af1d4a39f1e187}{%
+           family={Natale},
+           familyi={N\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c43ab2d62731935c23dd58eb725b3723}{%
+           family={Giorgio},
+           familyi={G\bibinitperiod},
+           given={Metta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0e9e7b85b0066892ff92a3195ac128e1}{%
+           family={Sandini},
+           familyi={S\bibinitperiod},
+           given={Giulio},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{61df00865ab151cd9f897c8b70ee304b}
+      \strng{fullhash}{c50f4de9598aa88c7f130a3e35192b06}
+      \strng{bibnamehash}{c50f4de9598aa88c7f130a3e35192b06}
+      \strng{authorbibnamehash}{c50f4de9598aa88c7f130a3e35192b06}
+      \strng{authornamehash}{61df00865ab151cd9f897c8b70ee304b}
+      \strng{authorfullhash}{c50f4de9598aa88c7f130a3e35192b06}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{8}
+      \field{journaltitle}{IEEE Sensors Journal}
+      \field{month}{3}
+      \field{title}{Highly sensitive soft tactile sensors for an anthropomorphic robotic hand}
+      \field{volume}{15}
+      \field{year}{2015}
+      \field{pages}{4226\bibrangedash 4233}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/JSEN.2015.2417759
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/7070742/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/7070742/
+      \endverb
+    \endentry
+    \entry{Yan2021}{article}{}
+      \name{author}{7}{}{%
+        {{hash=f195d8eb41c93104b249044f6339651d}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Youcan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e75f2afdf48220dc48fd591527ac0e49}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Zhe},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=af783accc650ee1f08671017b11889ed}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Zhengbao},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=104d6559b27fe227be6eda37fd0e4092}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Wenzhen},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e978cc6861bb09be19b52d6fe04cb3d3}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Chaoyang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=df1387a006d560bfd3dd3eb81dfd5e3d}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=68a618c99b06c5f29604eb6736be17e2}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Yajing},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{d80084c5c77a5113a237cfd560c6e2c3}
+      \strng{fullhash}{e1ee137561a09df117943c202e7542ba}
+      \strng{bibnamehash}{1d00dfd00c3b69b954b605e38d32d0f3}
+      \strng{authorbibnamehash}{1d00dfd00c3b69b954b605e38d32d0f3}
+      \strng{authornamehash}{d80084c5c77a5113a237cfd560c6e2c3}
+      \strng{authorfullhash}{e1ee137561a09df117943c202e7542ba}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{24709476}
+      \field{issue}{51}
+      \field{journaltitle}{Science Robotics}
+      \field{month}{2}
+      \field{title}{Soft magnetic skin for super-resolution tactile sensing with force self-decoupling}
+      \field{volume}{6}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1126/SCIROBOTICS.ABC8801
+      \endverb
+    \endentry
+    \entry{Kawasetsu2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d7b26199171e7afa1ead8bd31d73dd44}{%
+           family={Kawasetsu},
+           familyi={K\bibinitperiod},
+           given={Takumi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=83c55c1a2acfc299c125853c1810d531}{%
+           family={Horii},
+           familyi={H\bibinitperiod},
+           given={Takato},
+           giveni={T\bibinitperiod}}}%
+        {{hash=73d56a7d260ce480abe4cb93a834cde3}{%
+           family={Ishihara},
+           familyi={I\bibinitperiod},
+           given={Hisashi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=05a71cb7b2cdf20a962578f846680ba0}{%
+           family={Asada},
+           familyi={A\bibinitperiod},
+           given={Minoru},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{1f3baa871b90ade03fb487a52ccc5fef}
+      \strng{fullhash}{ab3273716d4fb544fd411dcd1019b826}
+      \strng{bibnamehash}{ab3273716d4fb544fd411dcd1019b826}
+      \strng{authorbibnamehash}{ab3273716d4fb544fd411dcd1019b826}
+      \strng{authornamehash}{1f3baa871b90ade03fb487a52ccc5fef}
+      \strng{authorfullhash}{ab3273716d4fb544fd411dcd1019b826}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1424-8220}
+      \field{issue}{2}
+      \field{journaltitle}{Sensors}
+      \field{month}{2}
+      \field{title}{Mexican-Hat-Like Response in a Flexible Tactile Sensor Using a Magnetorheological Elastomer}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{pages}{587}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/S18020587
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/18/2/587/htm https://www.mdpi.com/1424-8220/18/2/587
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/18/2/587/htm%20https://www.mdpi.com/1424-8220/18/2/587
+      \endverb
+      \keyw{flexible materials,force and tactile sensing,magnetic flux measurements,magnetorheological elastomer,robotic skin,tactile sensor}
+    \endentry
+    \entry{Alfadhel2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a747ee65c2090f7ed917de425437791a}{%
+           family={Alfadhel},
+           familyi={A\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=15749b19675ab186ab0f6682a3c1858e}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Mohammed\bibnamedelima Asadullah},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c6c09549dd3f1a54e8beef834c445a2e}{%
+           family={Cardoso},
+           familyi={C\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d2e9e67b2bda0f8730d9e8e957524f46}{%
+           family={Leitao},
+           familyi={L\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5780373a9fb1c020f76d361dbb83d76d}{%
+           family={Kosel},
+           familyi={K\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{5c012a3a87d0a854a60928b62eeb520c}
+      \strng{fullhash}{cc9c3212f15e4481ee61fabd8bd9ef99}
+      \strng{bibnamehash}{cc9c3212f15e4481ee61fabd8bd9ef99}
+      \strng{authorbibnamehash}{cc9c3212f15e4481ee61fabd8bd9ef99}
+      \strng{authornamehash}{5c012a3a87d0a854a60928b62eeb520c}
+      \strng{authorfullhash}{cc9c3212f15e4481ee61fabd8bd9ef99}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1424-8220}
+      \field{issue}{5}
+      \field{journaltitle}{Sensors}
+      \field{month}{5}
+      \field{title}{A Magnetoresistive Tactile Sensor for Harsh Environment Applications}
+      \field{volume}{16}
+      \field{year}{2016}
+      \field{pages}{650}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/S16050650
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/16/5/650/htm https://www.mdpi.com/1424-8220/16/5/650
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/16/5/650/htm%20https://www.mdpi.com/1424-8220/16/5/650
+      \endverb
+      \keyw{cilia,giant magnetoresistance,harsh environment,high temperature,magnetic nanocomposite,nanowires,spin,tactile sensor,valve}
+    \endentry
+    \entry{Yang2022}{article}{}
+      \name{author}{4}{}{%
+        {{hash=859071280027c2ae3c63513c7e762daa}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Huiwen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=16865ffd86ac197a58c707d66776075b}{%
+           family={Weng},
+           familyi={W\bibinitperiod},
+           given={Ling},
+           giveni={L\bibinitperiod}}}%
+        {{hash=621afb2f63bcbbb323f8a9935782eef1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Bowen},
+           giveni={B\bibinitperiod}}}%
+        {{hash=52a7d0828c49b27ac99dfc82b38d374e}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Wenmei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers Inc.}%
+      }
+      \strng{namehash}{8e74a215954da5d5a14cdaf4e833d46e}
+      \strng{fullhash}{3c6a478e01c223cfee78c29731f166df}
+      \strng{bibnamehash}{3c6a478e01c223cfee78c29731f166df}
+      \strng{authorbibnamehash}{3c6a478e01c223cfee78c29731f166df}
+      \strng{authornamehash}{8e74a215954da5d5a14cdaf4e833d46e}
+      \strng{authorfullhash}{3c6a478e01c223cfee78c29731f166df}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15581748}
+      \field{issue}{5}
+      \field{journaltitle}{IEEE Sensors Journal}
+      \field{month}{3}
+      \field{title}{Design and Characterization of High-Sensitivity Magnetostrictive Tactile Sensor Array}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{pages}{4004\bibrangedash 4013}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/JSEN.2022.3145822
+      \endverb
+      \keyw{Galfenol,Inverse magnetostrictive effect,high sensitivity,robotic tactile perception,tunnel magnetoresistance}
+    \endentry
+    \entry{Canavese2014}{article}{}
+      \name{author}{8}{}{%
+        {{hash=1c2ebf9d028c4140a0682cafd1cd2039}{%
+           family={Canavese},
+           familyi={C\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=06491afa5cac1eb20c0cdf199b6ce889}{%
+           family={Stassi},
+           familyi={S\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e476099352427fa81aad93cd3b19a2b6}{%
+           family={Fallauto},
+           familyi={F\bibinitperiod},
+           given={Carmelo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4c0b66b40b4f425371027b2e4e5ef99b}{%
+           family={Corbellini},
+           familyi={C\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7fd01786aece7f1867c34698f76b9e54}{%
+           family={Cauda},
+           familyi={C\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4202d7a3d1f3f8d65c83237eaf6a7467}{%
+           family={Camarchia},
+           familyi={C\bibinitperiod},
+           given={Vittorio},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a89a79d5b19c7a18f50bf4e161a68222}{%
+           family={Pirola},
+           familyi={P\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=042ec790d7efb00ebd0b36e8de635585}{%
+           family={Pirri},
+           familyi={P\bibinitperiod},
+           given={Candido\bibnamedelima Fabrizio},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{5df2b4c543075c7931470536ff717061}
+      \strng{fullhash}{421c6604accaba984f056aaacfbc7685}
+      \strng{bibnamehash}{3ef1e8636f992e0229c4a8fc517b764b}
+      \strng{authorbibnamehash}{3ef1e8636f992e0229c4a8fc517b764b}
+      \strng{authornamehash}{5df2b4c543075c7931470536ff717061}
+      \strng{authorfullhash}{421c6604accaba984f056aaacfbc7685}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09244247}
+      \field{journaltitle}{Sensors and Actuators, A: Physical}
+      \field{month}{2}
+      \field{title}{Piezoresistive flexible composite for robotic tactile applications}
+      \field{volume}{208}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.sna.2013.11.018
+      \endverb
+    \endentry
+    \entry{Stassi2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=06491afa5cac1eb20c0cdf199b6ce889}{%
+           family={Stassi},
+           familyi={S\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7fd01786aece7f1867c34698f76b9e54}{%
+           family={Cauda},
+           familyi={C\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod}}}%
+        {{hash=1c2ebf9d028c4140a0682cafd1cd2039}{%
+           family={Canavese},
+           familyi={C\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=042ec790d7efb00ebd0b36e8de635585}{%
+           family={Pirri},
+           familyi={P\bibinitperiod},
+           given={Candido\bibnamedelima Fabrizio},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{873e42ee2d48b39c34021210cd21ef5e}
+      \strng{fullhash}{5222d2ece3824e424274c8e75ed3bec8}
+      \strng{bibnamehash}{5222d2ece3824e424274c8e75ed3bec8}
+      \strng{authorbibnamehash}{5222d2ece3824e424274c8e75ed3bec8}
+      \strng{authornamehash}{873e42ee2d48b39c34021210cd21ef5e}
+      \strng{authorfullhash}{5222d2ece3824e424274c8e75ed3bec8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1424-8220}
+      \field{issue}{3}
+      \field{journaltitle}{Sensors}
+      \field{month}{3}
+      \field{title}{Flexible Tactile Sensing Based on Piezoresistive Composites: A Review}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{5296\bibrangedash 5332}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.3390/S140305296
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/14/3/5296/htm https://www.mdpi.com/1424-8220/14/3/5296
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/14/3/5296/htm%20https://www.mdpi.com/1424-8220/14/3/5296
+      \endverb
+    \endentry
+    \entry{Yin2023}{article}{}
+      \name{author}{6}{}{%
+        {{hash=83d14db38d1278d373ce937f1a2001a5}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Feifei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=87739cb77a033e3777743a1a0f6f0287}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Hongsen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4f2b5766beb92efc34d831f60c84cd1e}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Eun\bibnamedelima Seong},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2b3cda1246caa6c365d9d04db4125884}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Young\bibnamedelima Kee},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=2af761d9bef859ea29248418adce0dd7}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=608459673b921f3a09da7814916b81ed}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Nam\bibnamedelima Young},
+           giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{bff9382a0114760362ccb4a5f906fc21}
+      \strng{fullhash}{e3905949032c8013419c803b8c79bd1e}
+      \strng{bibnamehash}{e3905949032c8013419c803b8c79bd1e}
+      \strng{authorbibnamehash}{e3905949032c8013419c803b8c79bd1e}
+      \strng{authornamehash}{bff9382a0114760362ccb4a5f906fc21}
+      \strng{authorfullhash}{e3905949032c8013419c803b8c79bd1e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2567-3165}
+      \field{issue}{7}
+      \field{journaltitle}{InfoMat}
+      \field{month}{6}
+      \field{title}{Advanced polymer materials-based electronic skins for tactile and non-contact sensing applications}
+      \field{volume}{5}
+      \field{year}{2023}
+      \field{pages}{e12424}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/INF2.12424
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/inf2.12424 https://onlinelibrary.wiley.com/doi/abs/10.1002/inf2.12424 https://onlinelibrary.wiley.com/doi/10.1002/inf2.12424
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/inf2.12424%20https://onlinelibrary.wiley.com/doi/abs/10.1002/inf2.12424%20https://onlinelibrary.wiley.com/doi/10.1002/inf2.12424
+      \endverb
+    \endentry
+    \entry{Seminara2012}{inbook}{}
+      \name{author}{4}{}{%
+        {{hash=6293ad294acff2e9880c1002135da626}{%
+           family={Seminara},
+           familyi={S\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=128e7f6e6885e78c695ab503733fa51d}{%
+           family={Pinna},
+           familyi={P\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=abefa763de299ca9d11324645f532a5e}{%
+           family={Capurro},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=449f1a3a1876d28986e201d14e626a81}{%
+           family={Valle},
+           familyi={V\bibinitperiod},
+           given={Maurizio},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IntechOpen}%
+      }
+      \strng{namehash}{fcbf0559b4946f8e7137d433d79fa7eb}
+      \strng{fullhash}{5896608e44b00ac9975ff98de4c65ccc}
+      \strng{bibnamehash}{5896608e44b00ac9975ff98de4c65ccc}
+      \strng{authorbibnamehash}{5896608e44b00ac9975ff98de4c65ccc}
+      \strng{authornamehash}{fcbf0559b4946f8e7137d433d79fa7eb}
+      \strng{authorfullhash}{5896608e44b00ac9975ff98de4c65ccc}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Smart Actuation and Sensing Systems - Recent Advances and Future Challenges}
+      \field{isbn}{978-953-51-0798-9}
+      \field{month}{10}
+      \field{title}{A Tactile Sensing System Based on Arrays of Piezoelectric Polymer Transducers}
+      \field{year}{2012}
+      \field{pages}{611\bibrangedash 638}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.5772/50112
+      \endverb
+      \verb{urlraw}
+      \verb https://www.intechopen.com/chapters/39972 undefined/chapters/39972
+      \endverb
+      \verb{url}
+      \verb https://www.intechopen.com/chapters/39972%20undefined/chapters/39972
+      \endverb
+    \endentry
+    \entry{Zhong2023}{article}{}
+      \name{author}{8}{}{%
+        {{hash=c976c4732a9b54d216c9f7d7a71765bd}{%
+           family={Zhong},
+           familyi={Z\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3344bbcf94977a4549edb7feaf02c615}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jiaqi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d889ff4c770b193392dbd24796a4d207}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7458d6d833086806a05de88c58165993}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Shengping},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9d368ab66d67ab2a2f3f79695b175856}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b3555b096bae17568379100bb4867ba7}{%
+           family={Hua},
+           familyi={H\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8454c20fc201b482fb5fd9f00974e1da}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Guanggui},
+           giveni={G\bibinitperiod}}}%
+        {{hash=616ee9293392e1a432b93db101357738}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Jianning},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c1177039982fd195ff57ace9c33b358a}
+      \strng{fullhash}{bad574897cda8c0c27340f18c3070d08}
+      \strng{bibnamehash}{ed7bed1e3e797344cab8c0de21ab287b}
+      \strng{authorbibnamehash}{ed7bed1e3e797344cab8c0de21ab287b}
+      \strng{authornamehash}{c1177039982fd195ff57ace9c33b358a}
+      \strng{authorfullhash}{bad574897cda8c0c27340f18c3070d08}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0924-4247}
+      \field{journaltitle}{Sensors and Actuators A: Physical}
+      \field{month}{1}
+      \field{title}{High-performance flexible self-powered triboelectric pressure sensor based on chemically modified micropatterned PDMS film}
+      \field{volume}{349}
+      \field{year}{2023}
+      \field{pages}{114013}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.SNA.2022.114013
+      \endverb
+    \endentry
+    \entry{Tao2022}{article}{}
+      \name{author}{11}{}{%
+        {{hash=0495fa52e14ed6bfdf681cd421486217}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a6a90004961c3490114e720fdbb091aa}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhensheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=257830c79611b46a55f5819cb5324a0d}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Jiahao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a08dc9893c0bc838624dd6a124f29903}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Haozhe},
+           giveni={H\bibinitperiod}}}%
+        {{hash=bd07e45e871c662f4bb28aeb35bcf14f}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b18a594b678826f23233acabbd52b730}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Zixuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e621781ce772f8a87cfc1783a595504b}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Qingyan},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=24bece773e8873ff8f03d9a3eced56df}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=64136da2be407e64a624565830a087c2}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Yongqing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=83bd87b566020cd5bac78141188fb827}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Honglong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=14bc79de95c79c57652bfb55e44fb949}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Weizheng},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{1ac22afd39e5701351fa167cc9022fed}
+      \strng{fullhash}{a4faf7452c9dfd66162e94a5c9ee37b1}
+      \strng{bibnamehash}{472f22d6aa16fc9bf933298cb5905577}
+      \strng{authorbibnamehash}{472f22d6aa16fc9bf933298cb5905577}
+      \strng{authornamehash}{1ac22afd39e5701351fa167cc9022fed}
+      \strng{authorfullhash}{a4faf7452c9dfd66162e94a5c9ee37b1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2198-3844}
+      \field{issue}{10}
+      \field{journaltitle}{Advanced Science}
+      \field{month}{1}
+      \field{title}{Ultra-Sensitive, Deformable, and Transparent Triboelectric Tactile Sensor Based on Micro-Pyramid Patterned Ionic Hydrogel for Interactive Human–Machine Interfaces}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{pages}{2104168}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1002/ADVS.202104168
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202104168 https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202104168 https://onlinelibrary.wiley.com/doi/10.1002/advs.202104168
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202104168%20https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202104168%20https://onlinelibrary.wiley.com/doi/10.1002/advs.202104168
+      \endverb
+    \endentry
+    \entry{Ke2019}{article}{}
+      \name{author}{8}{}{%
+        {{hash=956e3daa2fb792832539b0dfa21edcba}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Ang},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c5da7e2c23259cf30044a347312dd769}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7bc76c9cb3c4493c8e78c64d186bb57c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Luyao},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f9771d07a78911810e83b2f8b2b536ce}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Zhaolong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=6c378148d599e48a9b42c13827c4eab1}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Jiuqi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bc04f05a07dbc7e15dc631c9a6249cb7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Changyong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fce5616bc2fd842b1eb0f5cf75a16a46}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c014f0d2ce961945727728d85a8fdd80}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Jiping},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers Inc.}%
+      }
+      \strng{namehash}{ad76b9722af01a530df8d57bc12cb4da}
+      \strng{fullhash}{58ff0dd93436bebd08bcb51a339ea139}
+      \strng{bibnamehash}{19884394078d674b1bc2727c7b2a77d6}
+      \strng{authorbibnamehash}{19884394078d674b1bc2727c7b2a77d6}
+      \strng{authornamehash}{ad76b9722af01a530df8d57bc12cb4da}
+      \strng{authorfullhash}{58ff0dd93436bebd08bcb51a339ea139}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15581748}
+      \field{issue}{23}
+      \field{journaltitle}{IEEE Sensors Journal}
+      \field{month}{12}
+      \field{title}{Fingertip Tactile Sensor with Single Sensing Element Based on FSR and PVDF}
+      \field{volume}{19}
+      \field{year}{2019}
+      \field{pages}{11100\bibrangedash 11112}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/JSEN.2019.2936304
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8805357
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8805357
+      \endverb
+    \endentry
+    \entry{Lu2023}{article}{}
+      \name{author}{7}{}{%
+        {{hash=c59f7a7166da1c59e76aa2b4573f2fef}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Xiong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=af36d00fe8272f95c483a6bb449395d5}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=122096fa0016e84347dc3359c8145cfc}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Hongbin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8a2113221ba7615276191f70852ddb43}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Huafang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5c8dfeca37187f28c415770ff62675ce}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Yuxing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5d1b734744410f462cc3813bdd73d24c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Changcheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=192f4c9db69121c98d7900243b99acf9}{%
+           family={Quigley},
+           familyi={Q\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers Inc.}%
+      }
+      \strng{namehash}{b6c5968c0c620c9832c18aa6cbbeef08}
+      \strng{fullhash}{e6626fbfff357d05bda5e4496f08d121}
+      \strng{bibnamehash}{0af89c63d8d4efb0815646a891617642}
+      \strng{authorbibnamehash}{0af89c63d8d4efb0815646a891617642}
+      \strng{authornamehash}{b6c5968c0c620c9832c18aa6cbbeef08}
+      \strng{authorfullhash}{e6626fbfff357d05bda5e4496f08d121}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{23798939}
+      \field{issue}{4}
+      \field{journaltitle}{IEEE Transactions on Cognitive and Developmental Systems}
+      \field{month}{12}
+      \field{title}{3-D Tactile-Based Object Recognition for Robot Hands Using Force-Sensitive and Bend Sensor Arrays}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{1645\bibrangedash 1655}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/TCDS.2022.3215021
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
